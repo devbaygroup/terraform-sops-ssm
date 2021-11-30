@@ -1,0 +1,3 @@
+creation_rules:
+  - kms: "arn:aws:kms:ap-southeast-1:$AWS_ACCOUNT_ID:key/94d60982-2cd3-4208-8db6-889502f45573"
+    aws_profile: playground
